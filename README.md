@@ -48,15 +48,6 @@ ValueLab3 is designed with speed, visibility, and accessibility in mind.
 - ✅ Optimized for modern search engines
 - ✅ Proper `<alt>` tags for images (accessibility-compliant)
 
-### 🧠 SEO Tags Example (inside index.html)
-```html
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="description" content="AI-powered real estate investment insights for the Indian market." />
-<meta name="keywords" content="Real Estate, India, Investment, AI, Property, Dashboard, React, Tailwind" />
-<meta name="author" content="ValueLab3 Team" />
-<title>ValueLab3 | AI Real Estate Analysis</title>
-
-```
 ---
 
 # 👨‍💻 Contributors – ValueLab
