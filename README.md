@@ -1,6 +1,6 @@
 # 🏠 ValueLab – AI-Powered Indian Real Estate Investment Analyzer
 
-**ValueLab3** is a modern, frontend-only web platform that delivers AI-powered insights and visual analysis for Indian real estate investors. It enables users to explore hardcoded, realistic market data to make smarter investment decisions — all wrapped in a sleek dark UI inspired by fintech platforms.
+**ValueLab** is a modern, frontend-only web platform that delivers AI-powered insights and visual analysis for Indian real estate investors. It enables users to explore hardcoded, realistic market data to make smarter investment decisions — all wrapped in a sleek dark UI inspired by fintech platforms.
 
 ---
 
